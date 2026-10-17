@@ -3,3 +3,8 @@
 3. mkdir - Yeni bir klasör oluşturur.
 4. rm - Dosya veya klasör siler.
 5. pwd - Çalışılan mevcut dizinin tam yolunu gösterir.
+6. git status - Calisma dizini ve staging alaninin durumunu gosterir.
+7. git add - Degisiklikleri commit oncesi staging alanina tasir.
+8. git commit - Degisiklikleri yerel depoya kaydeder.
+9. git branch - Dallari listeler veya yeni dal olusturur.
+10. git checkout - Farkli bir dala gecis yapar.
