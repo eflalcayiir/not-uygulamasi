@@ -8,3 +8,4 @@
 8. git commit - Degisiklikleri yerel depoya kaydeder.
 9. git branch - Dallari listeler veya yeni dal olusturur.
 10. git checkout - Farkli bir dala gecis yapar.
+# Hafta 2 Calismalari Tamamlandi
